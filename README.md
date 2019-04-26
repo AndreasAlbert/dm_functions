@@ -9,10 +9,10 @@ Let's calculate the total mediator width for an axial mediator:
 ```python
 from dmsimp.mediator_width import gamma_axial_total
 
-width = gamma_axial_total(m_med = 1000 # GeV,
-                          m_x = 1 # GeV,
-                          g_q = 0.25,
-                          g_chi = 1.0,
+width = gamma_axial_total(m_med = 1000, # GeV \
+                          m_x = 1, # GeV \
+                          g_q = 0.25, \
+                          g_chi = 1.0, \
                           g_l=0)
 ```
 
