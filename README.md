@@ -1,7 +1,7 @@
 # dm_functions
 Utility functions to deal with DM interpretations.
 
-## Example usage
+## DMSimp mediator widths
 Individual functions exist for partial widths, and the total width of axial-vector, vector, scalar and pseudoscalar mediators.
 
 Let's calculate the total mediator width for an axial mediator:
