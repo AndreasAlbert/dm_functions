@@ -2,7 +2,8 @@
 Utility functions to deal with DM interpretations.
 
 ## DMSimp mediator widths
-Individual functions exist for partial widths, and the total width of axial-vector, vector, scalar and pseudoscalar mediators.
+Functions for the calculation of partial and total mediator widths, for axial-vector, vector, scalar and pseudoscalar mediators.
+The analytic functions are taken from the [2017 LHC DMWG report](https://arxiv.org/abs/1703.05703).
 
 Let's calculate the total mediator width for an axial mediator:
 
